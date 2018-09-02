@@ -26,6 +26,7 @@ COURSE DELIVERY:
 
 ASSIGNMENTS:
 - Complete four different assignments to create dynamic, responsive applications including:
-- A CRUD web application using a lightweight web framework and no JavaScript (Sinatra, raw SQL)
-- A full stack JavaScript web application (vanilla Javascript Express and Mongo);
-- A native application (Java / Android)
+  - A CRUD web application using a lightweight web framework and no JavaScript (Sinatra, raw SQL)
+  - A full stack JavaScript web application (vanilla Javascript Express and Mongo);
+  - A native application (Java / Android)
+  - Final project of student's own choice
